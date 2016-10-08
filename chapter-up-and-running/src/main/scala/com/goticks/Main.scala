@@ -1,6 +1,5 @@
 //Li Min
 //420 
-//age 23
 
 package com.goticks
 
